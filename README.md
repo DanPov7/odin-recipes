@@ -1,1 +1,1 @@
-This is a simple website about the recipes. The point of this project is to showcase my ability to use newly acquired html skills.
+This is a simple website about the recipes. The point of this project is to showcase my newly acquired html skills
