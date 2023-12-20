@@ -1,1 +1,1 @@
-This project is a basic recipe website. I will showcase the html skills that I have obtained in the TOP course.
+This is a simple website about the recipes. The point of this project is to showcase my html skills.
