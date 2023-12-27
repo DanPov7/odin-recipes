@@ -7,6 +7,9 @@ h1{
     background-color: rgb(152, 187, 240);
     text-align: center;
     font-size: 48px;
+    border: 5px solid black;
+    padding: 20px;
+    margin-top: -5px;
 }
 .cake{
     height: 300px;
@@ -15,4 +18,46 @@ h1{
 
 .lastpar{
     font-size: 32px;
+}
+
+.recipe{
+    border:5px solid black;
+    background-color: rgb(152, 187, 240);
+    width: 300px;
+}
+
+.recipeline{
+    display: inline-block;
+    padding-left: 24px;
+    
+}
+
+.stepsline{
+    padding-left: 24px;
+    display: inline-block;
+}
+
+.didyouknow{
+    border: 5px solid black;
+    background-color:rgb(152, 187, 240);
+    text-align: center;
+    width: 300px; 
+    margin-top: 16px; 
+}
+    
+.dyktext{
+    text-align: left;
+    padding: 16px;
+}
+
+.steps{
+    border: 5px solid black;
+    background-color:rgb(152, 187, 240);
+    margin-top: 16px; 
+} 
+
+.lists{
+    border: 5px solid black;
+    background-color: rgb(152, 187, 240);
+    
 }
